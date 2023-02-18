@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://hassdev.tech/](https://hassdev.tech/)
 
-- ⚡ Fun fact **my favourate "word" is Atomic habits,wich means "small, incremental changes or improvements that compound over time to create significant and lasting positive changes in one's life",by by James Clear**
+- ⚡ Fun fact: **my favourate "word" is Atomic habits,wich means "small, incremental changes or improvements that compound over time to create significant and lasting positive changes in one's life" by James Clear**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
