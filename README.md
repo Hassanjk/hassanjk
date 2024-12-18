@@ -5,20 +5,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjk&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hassan62766763" target="blank"><img src="https://img.shields.io/twitter/follow/hassan62766763?logo=twitter&style=for-the-badge" alt="hassan62766763" /></a> </p>
-
+f
 - 🌱 I’m currently learning **Frameworks,Courses, Etc.**
 
 - 👯 I’m looking to collaborate on **laravel,react,software-dev**
 
 - 🏆 I’m currently working on **TeknoFest,Hackathons,hackerank**
 
-- 👨‍💻 All of my projects are available at [https://hassdev.tech/](https://hassdev.dev/)
+- 👨‍💻 All of my projects are available at [https://hassdev.com/](https://hassdev.dev/)
 
 - 💬 Ask me about **full-stack-development,software-dev**
 
 - 📫 How to reach me **hassanmdala52@gmail.com**
 
-- 📄 Know about my experiences [https://hassdev.tech/](https://hassdev.tech/)
+- 📄 Know about my experiences [https://hassdev.com/](https://hassdev.com/)
 
 - ⚡ Fun fact: **my favourate "word" is Atomic habits,wich means "small, incremental changes or improvements that compound over time to create significant and lasting positive changes in one's life" by James Clear**
 
