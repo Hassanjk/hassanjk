@@ -12,7 +12,7 @@
 
 - 🏆 I’m currently working on **TeknoFest,Hackathons,hackerank**
 
-- 👨‍💻 All of my projects are available at [https://hassdev.tech/](https://hassdev.tech/)
+- 👨‍💻 All of my projects are available at [https://hassdev.tech/](https://hassdev.dev/)
 
 - 💬 Ask me about **full-stack-development,software-dev**
 
