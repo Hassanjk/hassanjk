@@ -1,6 +1,6 @@
 ![logo](https://github.com/Hassanjk/Hassan_Mdala/blob/main/gitgif.gif)
 <h1 align="center">Hi 👋, I'm Hassan Mdala</h1>
-<h3 align="center">A passionate full-stack Software developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjk&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjk" /> </p>
 
